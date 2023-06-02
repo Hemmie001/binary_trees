@@ -2,12 +2,12 @@
 
 /**
  * binary_tree_postorder -This functiong goes through a binary tree
- * 			  using post-order traversal.
+ * using post-order traversal.
  *
  * @tree:is the pointer to the root node of the tree to traverse.
  * @func:is the pointer to a function to call for each node.
- * 	 The value of the node must be passed as a parameter to this
- * 	 function.
+ * The value of the node must be passed as a parameter to this
+ * function.
  * Return: Void If tree or func is NULL
  */
 
